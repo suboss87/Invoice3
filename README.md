@@ -25,7 +25,6 @@ Invoice³ combines three powerful AI technologies to create a fully automated in
 - 🛡️ **Fraud Detection** - Real-time risk analysis with 4 security checks
 - 🤖 **Autonomous Agents** - Two specialized agents (Matching + Fraud) working in tandem
 - 📊 **Real-Time Dashboard** - Executive dashboard with live metrics
-- 💬 **AI Chat Assistant** - Query invoices using natural language
 - 📈 **Analytics** - Processing time, quality scores, and ROI tracking
 
 ### Technical Highlights
@@ -316,12 +315,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🗺️ Roadmap
 
-- [ ] Multi-language support
-- [ ] OCR fallback for non-API documents
+- [ ] AI Chat Assistant
 - [ ] Integration with ERP systems (SAP, Oracle, NetSuite)
 - [ ] Advanced analytics dashboard
 - [ ] Mobile app (iOS/Android)
-- [ ] Batch processing
 - [ ] Email ingestion
 
 ---
