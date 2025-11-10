@@ -36,7 +36,8 @@ Invoice³ combines three powerful AI technologies to create a fully automated in
 
 ## 🏗️ Architecture
 
-<img width="1121" height="500" alt="Screenshot 2025-11-10 at 18 38 09" src="https://github.com/user-attachments/assets/b418669f-2039-437c-abb9-26c2347b0bdc" />
+<img width="1156" height="471" alt="Screenshot 2025-11-10 at 18 43 33" src="https://github.com/user-attachments/assets/657ecb78-05f8-4efe-b466-a7f3443e0592" />
+
 
 ## 🚀 Quick Start
 
