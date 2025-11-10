@@ -276,7 +276,18 @@ Once the backend is running, visit:
 | POST | `/api/invoices/upload` | Upload new invoice |
 | GET | `/api/invoices/{id}` | Get invoice details |
 | GET | `/api/stats` | Get system statistics |
-| POST | `/api/chat/query` | Chat with invoice data |
+
+## 🧪 Testing with Synthetic Data
+
+Invoice³ comes pre-loaded with **realistic test data** so you can try it immediately without creating purchase orders or vendor records.
+
+### 📊 Included Test Data
+
+The database (`backend/invoice3.db`) contains:
+
+- **8 Purchase Orders** - Various vendors and amounts
+- **8 Goods Receipt Notes** - Matching PO deliveries
+- **6 Vendor Profiles** - Complete with bank details and history
 
 ## 🤝 Contributing
 
