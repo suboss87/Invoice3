@@ -1,4 +1,4 @@
-# Invoice³ - AI-Powered Invoice Processing System
+# Invoice³ (Invoice Cube) - AI-Powered Invoice Processing System
 
 > **3-Way Matching + Fraud Detection + Autonomous Validation**
 
