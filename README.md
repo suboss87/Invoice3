@@ -10,7 +10,6 @@ Invoice³ is an enterprise-grade, AI-powered invoice processing system that auto
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎯 Overview
-
 Invoice³ combines three powerful AI technologies to create a fully automated invoice validation pipeline:
 
 1. **LandingAI ADE** - Advanced document extraction
@@ -18,7 +17,6 @@ Invoice³ combines three powerful AI technologies to create a fully automated in
 3. **Google Gemini 2.0 Flash** - LLM-powered validation
 
 ## ✨ Features
-
 ### Core Capabilities
 - 🔍 **Intelligent Document Extraction** - Extract 40+ fields from invoice images/PDFs
 - 🔄 **3-Way Matching** - Automated matching against PO and GRN data
@@ -35,12 +33,9 @@ Invoice³ combines three powerful AI technologies to create a fully automated in
 - **Extensible** - Easy to add new validators and integrations
 
 ## 🏗️ Architecture
-
-<img width="1156" height="471" alt="Screenshot 2025-11-10 at 18 43 33" src="https://github.com/user-attachments/assets/657ecb78-05f8-4efe-b466-a7f3443e0592" />
-
+<img width="1097" height="468" alt="Screenshot 2025-11-10 at 18 47 19" src="https://github.com/user-attachments/assets/07e1f28f-a261-40f5-a40f-8c4eface4e4b" />
 
 ## 🚀 Quick Start
-
 ### Prerequisites
 - Python 3.10 or higher
 - Node.js 18+ and npm/yarn
@@ -48,7 +43,6 @@ Invoice³ combines three powerful AI technologies to create a fully automated in
 - Google Gemini API Key ([Get it here](https://makersuite.google.com/app/apikey))
 
 ### Installation
-
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/invoice3.git
@@ -100,7 +94,6 @@ npm run dev
 - **API Docs**: http://localhost:8000/docs
 
 ## 📖 Usage Guide
-
 ### Processing Your First Invoice
 
 1. **Upload Invoice**
@@ -130,9 +123,7 @@ npm run dev
 | ❌ **REJECT** | Match score < 60, Risk score ≥ 70, or critical issues |
 
 ## 🛠️ Development
-
 ### Project Structure
-
 ```
 invoice3/
 ├── backend/
@@ -172,7 +163,6 @@ invoice3/
 ```
 
 ### Key Technologies
-
 #### Backend
 - **FastAPI** - Modern, fast web framework
 - **LangGraph** - Agent orchestration framework
@@ -202,7 +192,6 @@ npm test
 ```
 
 ### Building for Production
-
 #### Backend
 ```bash
 cd backend
@@ -217,9 +206,7 @@ npm run build
 ```
 
 ## 🔧 Configuration
-
 ### Backend Environment Variables
-
 ```bash
 # Required
 LANDINGAI_API_KEY=your_landingai_api_key
@@ -232,7 +219,6 @@ MAX_UPLOAD_SIZE_MB=10
 ```
 
 ### Frontend Environment Variables
-
 ```bash
 VITE_API_URL=http://localhost:8000  # Backend API URL
 ```
@@ -244,7 +230,6 @@ Once the backend is running, visit:
 - **ReDoc**: http://localhost:8000/redoc
 
 ### Key Endpoints
-
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/invoices/` | List all invoices |
@@ -257,7 +242,6 @@ Once the backend is running, visit:
 Invoice³ comes pre-loaded with **realistic test data** so you can try it immediately without creating purchase orders or vendor records.
 
 ### 📊 Included Test Data
-
 The database (`backend/invoice3.db`) contains:
 
 - **8 Purchase Orders** - Various vendors and amounts
@@ -265,7 +249,6 @@ The database (`backend/invoice3.db`) contains:
 - **6 Vendor Profiles** - Complete with bank details and history
 
 ## 🤝 Contributing
-
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Development Workflow
@@ -276,18 +259,15 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 5. Open a Pull Request
 
 ## 📝 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
-
 - Built for the **LandingAI Financial Hackathon 2024**
 - Powered by [LandingAI ADE](https://landing.ai)
 - Powered by [Google Gemini](https://deepmind.google/technologies/gemini/)
 - Built with [LangGraph](https://github.com/langchain-ai/langgraph)
 
 ## 👨‍💻 Author
-
 **Subash Natarajan**
 - 💼 LinkedIn: [linkedin.com/in/subashn](https://www.linkedin.com/in/subashn/)
 - 📧 Email: suboss87@gmail.com
