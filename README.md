@@ -292,4 +292,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Subash Natarajan** | [LinkedIn](https://www.linkedin.com/in/subashn/) | [Email](mailto:suboss87@gmail.com)
 
-*Built for the LandingAI Financial Hackathon 2024*
+*Built for the LandingAI Financial Hackathon 2025*
