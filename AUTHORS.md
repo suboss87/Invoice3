@@ -6,7 +6,6 @@
 
 - 💼 **LinkedIn**: [linkedin.com/in/subashn](https://www.linkedin.com/in/subashn/)
 - 📧 **Email**: suboss87@gmail.com
-- 🏆 **Role**: Full Stack Developer, AI/ML Engineer
 - 🎯 **Project**: Built for LandingAI Financial Hackathon 2024
 
 ### Contributions
@@ -60,7 +59,6 @@ Want to collaborate or learn more about this project?
 
 - 📬 **Email**: suboss87@gmail.com
 - 💼 **LinkedIn**: https://www.linkedin.com/in/subashn/
-- 💻 **GitHub**: Check out other projects!
 
 ---
 
