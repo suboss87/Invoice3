@@ -181,6 +181,10 @@ invoice3/
 - **React Query** - Data fetching
 - **Recharts** - Visualizations
 
+#### Dashboard 
+<img width="1408" height="942" alt="Screenshot 2025-11-11 at 11 19 44" src="https://github.com/user-attachments/assets/c4b03b5d-bb6f-4c88-9ab4-79cfe4fef264" />
+<img width="1609" height="717" alt="Screenshot 2025-11-11 at 11 24 08" src="https://github.com/user-attachments/assets/8689fbec-4c3f-48d1-bc65-9234998cc017" />
+
 ### Running Tests
 ```bash
 # Backend tests
