@@ -6,7 +6,7 @@
 
 - 💼 **LinkedIn**: [linkedin.com/in/subashn](https://www.linkedin.com/in/subashn/)
 - 📧 **Email**: suboss87@gmail.com
-- 🎯 **Project**: Built for LandingAI Financial Hackathon 2024
+- 🎯 **Project**: Built for LandingAI Financial Hackathon 2025
 
 ### Contributions
 - 🏗️ System architecture and design
