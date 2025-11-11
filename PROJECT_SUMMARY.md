@@ -248,4 +248,4 @@ VITE_API_URL=http://localhost:8000
 - LinkedIn: https://www.linkedin.com/in/subashn/
 - Email: suboss87@gmail.com
 
-*Created for the LandingAI Financial Hackathon 2024*
+*Created for the LandingAI Financial Hackathon 2025*
